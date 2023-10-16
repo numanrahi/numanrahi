@@ -1,4 +1,4 @@
-<img width="100%" align="center" alt="safoun" src="https://i.ibb.co/wy7N2GQ/linked-In-Banner.jpg" />
+<img width="100%" align="center" alt="numanrahi" src="https://i.ibb.co/wy7N2GQ/linked-In-Banner.jpg" />
 
 <!-- Your title -->
 ## Hi, I'm Abdullah Al Numan Rahi, an aspiring Developer 🚀 from Bangladesh
@@ -22,12 +22,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [TechSphereX](https://github.com/numanrahi/nr-furniture);
+- 👨🏽‍💻 I’m currently working on [NR Furniture](https://github.com/numanrahi/nr-furniture);
 - 🌱 I’m currently learning Redux and UI/UX principles; 
 - 💼 I’m looking forward for any job opportunities;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm a senior year high school student;
-- 📫 How to reach me: safoun.officail@gmail.com;
+- 📫 How to reach me: arahi2994@gmail.com;
 
 **Languages and Tools:** 
 
